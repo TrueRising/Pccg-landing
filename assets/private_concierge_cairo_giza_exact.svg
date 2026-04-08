@@ -1,5 +1,12 @@
-<svg width="2000" height="1000" viewBox="0 0 800 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <path d="M280 215H520M370 215L440 115L510 215M290 215L360 135L415 200M410 160L455 135L510 215" stroke="#1A2B3C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="400" y="260" text-anchor="middle" font-family="Arial, sans-serif" font-weight="800" font-size="32" letter-spacing="2" fill="#1A2B3C">PRIVATE CONCIERGE</text>
-  <text x="400" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-weight="300" font-size="20" letter-spacing="6" fill="#1A2B3C">CAIRO &amp; GIZA</text>
+<svg width="2000" height="1000" viewBox="0 0 1600 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#0E3C8A" stroke-width="16" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M395 392H1205"/>
+    <path d="M450 392L585 165L635 232"/>
+    <path d="M560 392L800 58L1038 392"/>
+    <path d="M655 355L738 228L793 355Z"/>
+    <path d="M815 355L900 228L955 355Z"/>
+    <path d="M968 392L1097 165L1205 392"/>
+  </g>
+  <text x="800" y="520" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="92" letter-spacing="1" fill="#0E3C8A">PRIVATE CONCIERGE</text>
+  <text x="800" y="625" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="400" font-size="64" letter-spacing="6" fill="#0E3C8A">CAIRO &amp; GIZA</text>
 </svg>
